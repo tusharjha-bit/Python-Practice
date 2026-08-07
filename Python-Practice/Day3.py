@@ -58,8 +58,3 @@ print(math.trunc(9.3))
 print(math.trunc(-9.3))
 
 
-nums = [1,2,3,4]
-
-random.shuffle(nums)
-
-print(nums)
